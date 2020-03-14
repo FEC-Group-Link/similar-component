@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "mongoose": "^4.11.6"
+    "mongoose": "^5.9.4"
   },
   "devDependencies": {
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
